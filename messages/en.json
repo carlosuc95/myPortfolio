@@ -1,0 +1,130 @@
+{
+  "personal": {
+    "role": " Semi-Senior Software engineer",
+    "presentation": "I transform ideas into innovative software solutions."
+  },
+  "links": {
+    "about": { "name": "About", "href": "#about" },
+    "experiences": { "name": "Experiences", "href": "#experiences" },
+    "projects": { "name": "Projects", "href": "#projects" }
+  },
+  "about": {
+    "first": "Hello! I am Carlos Rubio, a <important>Civil Engineer of Computer Science</important> passionate about creating innovative and high-quality technological solutions. With a solid academic background and work experience in developing both <important>backend and frontend</important> applications, I have had the privilege of <important>contributing to the public and private sectors</important> in my country with projects that positively impact society.",
+    "second": "I am highly motivated by the challenge of building technological solutions that add value to both clients and society in general. Outside of work, I enjoy playing classical guitar and practicing crossfit, activities that help me maintain a balance between mind and body.",
+    "third": "My work ethic is based on respect and professionalism, values that guide every project I participate in. Additionally, I hold several certifications in the mentioned technologies, supporting my commitment to continuous learning and professional excellence."
+  },
+  "experiences": [
+    {
+      "duration": "2022 - Present",
+      "title": "Software Engineer at Ripley (Retail)",
+      "description": "Construction and development of CRM, back-office applications, frontend and backend code, migrations, and database management. RPA and integrations with external APIs and AWS migrations. Close collaboration with commercial teams and product managers to ensure continuous quality development.",
+      "skills": [
+        "Typescript",
+        "Javascript",
+        "Angular",
+        "NodeJs",
+        "Python",
+        "SQL Server",
+        "PostgreSQL",
+        "AWS",
+        "Azure",
+        "Git",
+        "Bitbucket"
+      ]
+    },
+    {
+      "duration": "2021 - 2022",
+      "title": "Software Engineer at Ministry of Health",
+      "description": "Engineering, construction, and development of high-value web applications for public health services, backend and frontend, construction and design of database models, maintenance of productive web and mobile applications.",
+      "skills": [
+        "Javascript",
+        "Typescript",
+        "React",
+        "Angular",
+        "NodeJs",
+        "NestJs",
+        "ExpressJs",
+        "Oracle",
+        "PostgreSQL",
+        "AWS",
+        "Git",
+        "GitLab"
+      ]
+    },
+    {
+      "duration": "Dec - Mar 2019",
+      "title": "Business Intelligence Analyst - SURA Chile",
+      "description": "Design, engineering, and construction of ETLs, direct contact and communication with internal and external clients for project requirement gathering.",
+      "skills": [
+        "Python",
+        "PowerCenter",
+        "Html",
+        "Css",
+        "Javascript",
+        "SQL Server",
+        "Oracle",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "duration": "Jan - Mar 2018",
+      "title": "Backend Developer - SBC Consulting",
+      "description": "Construction of electronic invoicing module for e-commerce of small and medium-sized enterprises.",
+      "skills": ["PHP", "SOAP/XML", "Html", "Css", "Javascript", "MySQL"]
+    }
+  ],
+  "projects": [
+    {
+      "image": "/crm.png",
+      "title": "CRM (Customer Relationship Management)",
+      "description": "Construction of modules for the company's commercial team, design and development of statistical, management, administrative, and functional modules.",
+      "tecnologies": [
+        "Typescript",
+        "Angular",
+        "NodeJs",
+        "Azure",
+        "SQL Server",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "image": "/rafds.png",
+      "title": "Registry of Attacks on Health Workers (RAFDS)",
+      "description": "Engineering, design, construction, and development of an application for the public health sector, cooperative work with cross-functional health teams along with developers, designers, and engineers. Server-side backend programming, Authentication, and Authorization through external integration with Clave Única (OAuth 2.0).",
+      "tecnologies": [
+        "Typescript",
+        "NodeJs",
+        "NestJs",
+        "SQL Server",
+        "MySQL",
+        "Git",
+        "GitLab"
+      ]
+    },
+    {
+      "image": "/donasangre.png",
+      "title": "DonaSangre APP",
+      "description": "Complete construction of a mobile application for blood donors in Chile, in collaboration with the Department of Medical Technology - Universidad Mayor. The project was awarded 3rd place in the Banco Santander Entrepreneurship Contest.",
+      "tecnologies": [
+        "Typescript",
+        "React Native",
+        "NodeJs",
+        "NestJs",
+        "GraphQL",
+        "AWS"
+      ]
+    }
+  ],
+  "resume": {
+    "src": "/Resume_CarlosRubio.pdf",
+    "download": "Get my full resume here"
+  },
+  "footer": {
+    "description": "This website was designed in <link>Figma</link>, built from scratch with <link>Next.js</link> and <link>Tailwind CSS</link>, and deployed to production with <link>GitHub Pages</link>."
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/carlos-rubio-contreras-297718175/",
+    "github": "https://github.com/carlosuc95"
+  }
+}

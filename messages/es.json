@@ -1,0 +1,130 @@
+{
+  "personal": {
+    "role": "Ingeniero de software semi-senior",
+    "presentation": "Transformo ideas en soluciones innovadoras de software."
+  },
+  "links": {
+    "about": { "name": "Acerca de mi", "href": "#about" },
+    "experiences": { "name": "Experiencias", "href": "#experiences" },
+    "projects": { "name": "Proyectos", "href": "#projects" }
+  },
+  "about": {
+    "first": "¡Hola! Soy Carlos Rubio, un <important>ingeniero civil en computación e informática</important> apasionado por la creación de soluciones tecnológicas innovadoras y de alta calidad. Con una sólida formación académica y experiencia laboral en el desarrollo de aplicaciones tanto <important>backend como frontend</important>, he tenido el privilegio de <important>contribuir al sector público y privado</important> en mi pais, con proyectos que impactan positivamente en la sociedad.",
+    "second": "Me motiva enormemente el desafío de construir soluciones tecnológicas que agreguen valor tanto para los clientes como para la sociedad en general. Fuera del ámbito laboral, disfruto tocando la guitarra clásica y practicando crossfit, actividades que me ayudan a mantener un equilibrio entre mente y cuerpo.",
+    "third": "Mi ética de trabajo se basa en el respeto y la profesionalidad, valores que guían cada proyecto en el que participo. Además, cuento con varias certificaciones en las tecnologías mencionadas, respaldando mi compromiso con el aprendizaje continuo y la excelencia profesional"
+  },
+  "experiences": [
+    {
+      "duration": "2022 - Presente",
+      "title": "Ingeniero de software Ripley (Retail)",
+      "description": "Construcción y desarrollo de CRM, aplicaciones back-office, códifgo frontend y backend, migraciones y manejo de bases de datos. RPA e integraciones de APIs externas y migraciones AWS. Desarrollos de cerca con equipos comerciales y product managers, para el asegurar el desarrollo continuo de calidad.",
+      "skills": [
+        "Typescript",
+        "Javascript",
+        "Angular",
+        "NodeJs",
+        "Python",
+        "SQL Server",
+        "PostgreSQL",
+        "AWS",
+        "Azure",
+        "Git",
+        "Bitbucket"
+      ]
+    },
+    {
+      "duration": "2021 - 2022",
+      "title": "Ingeniero de software Ministerio de Salud",
+      "description": "Ingeniería, construcción y desarrollo de aplicaciones webs de alto valor para servicios públicos de salud, backend y frontend, construcción y diseño de modelos de bases de datos, mantenimiento de aplicaciones web y mobile productivas.",
+      "skills": [
+        "Javascript",
+        "Typescript",
+        "React",
+        "Angular",
+        "NodeJs",
+        "NestJs",
+        "ExpressJs",
+        "Oracle",
+        "PostgreSQL",
+        "AWS",
+        "Git",
+        "GitLab"
+      ]
+    },
+    {
+      "duration": "DIC - MAR 2019",
+      "title": "Analista Business Intelligence",
+      "description": "Diseño, ingeniería y construcción de ETLs, contacto y comunicación directa con clientes internos y externos para la toma de requerimiento de proyectos.",
+      "skills": [
+        "Python",
+        "PowerCenter",
+        "Html",
+        "Css",
+        "Javascript",
+        "SQL Server",
+        "Oracle",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "duration": "ENE - MAR 2018",
+      "title": "Desarrollador Backend",
+      "description": "Construcción de módulo de facturación electronica para e-commerces de pequeñas y medianas empresas",
+      "skills": ["PHP", "SOAP/XML", "Html", "Css", "Javascript", "MySQL"]
+    }
+  ],
+  "projects": [
+    {
+      "image": "/crm.png",
+      "title": "CRM (Customer Relationship Management)",
+      "description": "Construcción de módulos para el equipo comercial de la empresa, diseño y desarrollo de módulos estadísticos, de gestión, administrativos, y funcionales",
+      "tecnologies": [
+        "Typescript",
+        "Angular",
+        "NodeJs",
+        "Azure",
+        "SQL Server",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "image": "/rafds.png",
+      "title": "Registro de Agresiones a Funcionarios de Salud (RAFDS)",
+      "description": "Ingeniería, diseño, construcción y desarrollo de aplicación para el sector público de la salud, trabajo cooperativo con equipos transversales de salud junto con desarrolladores, diseñadores e ingenieros. Programación server-side backend, Autenticación y Autorización a través de integracion externa con Clave única (OAuth 2.0).",
+      "tecnologies": [
+        "Typescript",
+        "NodeJs",
+        "NestJs",
+        "SQL Server",
+        "MySQL",
+        "Git",
+        "GitLab"
+      ]
+    },
+    {
+      "image": "/donasangre.png",
+      "title": "DonaSangre APP",
+      "description": "Construcción completa de aplicación móvil para donantes de sangre en Chile, trabajo en conjunto con Departamento de Tecnología Médica - Universidad Mayor. Proyecto donde se otorgó 3er lugar en Concurso de Emprendimiento Banco Santanader.",
+      "tecnologies": [
+        "Typescript",
+        "React Native",
+        "NodeJs",
+        "NestJs",
+        "GraphQL",
+        "AWS"
+      ]
+    }
+  ],
+  "resume": {
+    "src": "/CarlosRubioCV.pdf",
+    "download": "CV Completo"
+  },
+  "footer": {
+    "description": "Esta pagina web fue diseñada en <link>Figma</link>, construida desde cero con <link>Next.js</link> y <link>Tailwind CSS</link>, y desplegada a producción con <link>GitHub Pages</link>."
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/carlos-rubio-contreras-297718175/",
+    "github": "https://github.com/carlosuc95"
+  }
+}
