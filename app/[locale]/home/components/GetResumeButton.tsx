@@ -8,7 +8,6 @@ export const GetResumeButton = () => {
     <div className="flex my-10">
       <Link
         href={t("src")}
-        locale={false}
         className="flex items-center gap-3 text-blue-500 font-bold uppercase"
       >
         <IoCodeDownloadOutline size={25} />
