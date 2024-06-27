@@ -29,7 +29,8 @@
         "AWS",
         "Azure",
         "Git",
-        "Bitbucket"
+        "Bitbucket",
+        "Terraform"
       ]
     },
     {
