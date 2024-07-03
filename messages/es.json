@@ -9,7 +9,7 @@
     "projects": { "name": "Proyectos", "href": "#projects" }
   },
   "about": {
-    "first": "¡Hola! Soy Carlos Rubio, un <important>ingeniero civil en computación e informática</important> apasionado por la creación de soluciones tecnológicas innovadoras y de alta calidad. Con una sólida formación académica y experiencia laboral en el desarrollo de aplicaciones tanto <important>backend como frontend</important>, he tenido el privilegio de <important>contribuir al sector público y privado</important> en mi pais, con proyectos que impactan positivamente en la sociedad.",
+    "first": "¡Hola! Soy Carlos Rubio, un <important>ingeniero civil en computación e informática</important> apasionado por la creación de soluciones tecnológicas innovadoras y de alta calidad. Con una sólida formación académica y experiencia laboral en el desarrollo de aplicaciones tanto <important>backend</important> como <important>frontend</important>, he tenido el privilegio de <important>contribuir al sector público y privado</important> en mi pais, con proyectos que impactan positivamente en la sociedad.",
     "second": "Me motiva enormemente el desafío de construir soluciones tecnológicas que agreguen valor tanto para los clientes como para la sociedad en general. Fuera del ámbito laboral, disfruto tocando la guitarra clásica y practicando crossfit, actividades que me ayudan a mantener un equilibrio entre mente y cuerpo.",
     "third": "Mi ética de trabajo se basa en el respeto y la profesionalidad, valores que guían cada proyecto en el que participo. Además, cuento con varias certificaciones en las tecnologías mencionadas, respaldando mi compromiso con el aprendizaje continuo y la excelencia profesional"
   },

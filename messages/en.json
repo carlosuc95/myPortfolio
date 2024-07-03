@@ -9,7 +9,7 @@
     "projects": { "name": "Projects", "href": "#projects" }
   },
   "about": {
-    "first": "Hello! I am Carlos Rubio, a <important>Civil Engineer of Computer Science</important> passionate about creating innovative and high-quality technological solutions. With a solid academic background and work experience in developing both <important>backend and frontend</important> applications, I have had the privilege of <important>contributing to the public and private sectors</important> in my country with projects that positively impact society.",
+    "first": "Hello! I am Carlos Rubio, a <important>Civil Engineer of Computer Science</important> passionate about creating innovative and high-quality technological solutions. With a solid academic background and work experience in developing both <important>backend</important> and <important>frontend</important> applications, I have had the privilege of <important>contributing to the public and private sectors</important> in my country with projects that positively impact society.",
     "second": "I am highly motivated by the challenge of building technological solutions that add value to both clients and society in general. Outside of work, I enjoy playing classical guitar and practicing crossfit, activities that help me maintain a balance between mind and body.",
     "third": "My work ethic is based on respect and professionalism, values that guide every project I participate in. Additionally, I hold several certifications in the mentioned technologies, supporting my commitment to continuous learning and professional excellence."
   },
