@@ -1,5 +1,4 @@
 import { About } from "./About";
-import { GetResumeButton } from "./GetResumeButton";
 import { Projects } from "./projects/Projects";
 import { Footer } from "./Footer";
 import { Experiences } from "./experiences/Experiences";

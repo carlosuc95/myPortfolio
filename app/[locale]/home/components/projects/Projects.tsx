@@ -1,6 +1,9 @@
 import { ProjectCard } from "./ProjectCard";
 import { Project } from "../../interfaces/interfaces";
 import { useTranslations } from "next-intl";
+import { ExternalLink } from "../ExternalLink";
+import { IoAccessibility } from "react-icons/io5";
+import { ImArrowRight } from "react-icons/im";
 
 export const Projects = () => {
   const t = useTranslations();
@@ -12,6 +15,11 @@ export const Projects = () => {
       {t.raw("projects").map((project: Project) => (
         <ProjectCard key={project.title} project={project} />
       ))}
+      <ExternalLink
+        name={"All my projects (Soon)"}
+        src={"#"}
+        Icon={ImArrowRight}
+      />
     </section>
   );
 };
