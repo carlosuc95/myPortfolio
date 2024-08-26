@@ -15,11 +15,7 @@ export const Projects = () => {
       {t.raw("projects").map((project: Project) => (
         <ProjectCard key={project.title} project={project} />
       ))}
-      <ExternalLink
-        name={"All my projects (Soon)"}
-        src={"#"}
-        Icon={ImArrowRight}
-      />
+      <ExternalLink name={t("allProjects")} src={"#"} Icon={ImArrowRight} />
     </section>
   );
 };
