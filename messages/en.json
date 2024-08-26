@@ -15,7 +15,7 @@
   },
   "experiences": [
     {
-      "duration": "2022 - Present",
+      "duration": "2022 - APR 2024",
       "title": "Software Engineer at Ripley (Retail)",
       "description": "Construction and development of CRM, back-office applications, frontend and backend code, migrations, and database management. RPA and integrations with external APIs and AWS migrations. Close collaboration with commercial teams and product managers to ensure continuous quality development.",
       "skills": [
@@ -23,6 +23,7 @@
         "Javascript",
         "Angular",
         "NodeJs",
+        "NestJs",
         "Python",
         "SQL Server",
         "PostgreSQL",
@@ -104,7 +105,7 @@
       ]
     },
     {
-      "image": "/donasangre.png",
+      "image": "",
       "title": "DonaSangre APP",
       "description": "Complete construction of a mobile application for blood donors in Chile, in collaboration with the Department of Medical Technology - Universidad Mayor. The project was awarded 3rd place in the Banco Santander Entrepreneurship Contest.",
       "tecnologies": [

@@ -15,7 +15,7 @@
   },
   "experiences": [
     {
-      "duration": "2022 - Presente",
+      "duration": "2022 - ABR 2024",
       "title": "Ingeniero de software Ripley (Retail)",
       "description": "Construcción y desarrollo de CRM, aplicaciones back-office, códifgo frontend y backend, migraciones y manejo de bases de datos. RPA e integraciones de APIs externas y migraciones AWS. Desarrollos de cerca con equipos comerciales y product managers, para el asegurar el desarrollo continuo de calidad.",
       "skills": [
@@ -23,6 +23,7 @@
         "Javascript",
         "Angular",
         "NodeJs",
+        "NestJs",
         "Python",
         "SQL Server",
         "PostgreSQL",
@@ -104,7 +105,7 @@
       ]
     },
     {
-      "image": "/donasangre.png",
+      "image": "",
       "title": "DonaSangre APP",
       "description": "Construcción completa de aplicación móvil para donantes de sangre en Chile, trabajo en conjunto con Departamento de Tecnología Médica - Universidad Mayor. Proyecto donde se otorgó 3er lugar en Concurso de Emprendimiento Banco Santanader.",
       "tecnologies": [
